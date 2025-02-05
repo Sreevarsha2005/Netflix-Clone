@@ -25,24 +25,7 @@ A responsive movie app built using React.js and Material-UI that allows users to
 
 ## Project Structure 
 
-/movie-app
-├── /public
-│   └── index.html
-├── /src
-│   ├── /components
-│   │   ├── Featured.jsx
-│   │   ├── List.jsx
-│   │   ├── ListItem.jsx
-│   │   └── Navbar.jsx
-│   ├── /styles
-│   │   ├── featured.scss
-│   │   ├── list.scss
-│   │   ├── listItem.scss
-│   │   └── navbar.scss
-│   ├── App.js
-│   └── index.js
-├── package.json
-└── README.md
+/movie-app ├── /public │ └── index.html ├── /src │ ├── /components │ │ ├── Featured.jsx │ │ ├── List.jsx │ │ ├── ListItem.jsx │ │ └── Navbar.jsx │ ├── /styles │ │ ├── featured.scss │ │ ├── list.scss │ │ ├── listItem.scss │ │ └── navbar.scss │ ├── App.js │ └── index.js ├── package.json └── README.md
 
 ## Components
 - Featured: The main section displaying the genre selector, image, and action buttons (Play, Info).
